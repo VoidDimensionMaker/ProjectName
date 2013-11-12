@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B583191C18321E870064928B"
+               BlueprintIdentifier = "B50DB0161831207800120BB2"
                BuildableName = "ProjectName.app"
                BlueprintName = "ProjectName"
                ReferencedContainer = "container:ProjectName.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B583193718321E870064928B"
+               BlueprintIdentifier = "B50DB0311831207800120BB2"
                BuildableName = "ProjectNameTests.xctest"
                BlueprintName = "ProjectNameTests"
                ReferencedContainer = "container:ProjectName.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B583191C18321E870064928B"
+            BlueprintIdentifier = "B50DB0161831207800120BB2"
             BuildableName = "ProjectName.app"
             BlueprintName = "ProjectName"
             ReferencedContainer = "container:ProjectName.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B583191C18321E870064928B"
+            BlueprintIdentifier = "B50DB0161831207800120BB2"
             BuildableName = "ProjectName.app"
             BlueprintName = "ProjectName"
             ReferencedContainer = "container:ProjectName.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B583191C18321E870064928B"
+            BlueprintIdentifier = "B50DB0161831207800120BB2"
             BuildableName = "ProjectName.app"
             BlueprintName = "ProjectName"
             ReferencedContainer = "container:ProjectName.xcodeproj">
